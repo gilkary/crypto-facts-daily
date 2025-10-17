@@ -8,8 +8,6 @@ Perfect for beginners learning how to publish a small open-source repo on GitHub
 ## 💡 Example
 Did you know? The first Bitcoin purchase was for two pizzas worth 10,000 BTC.
 
-yaml
-Копіювати код
 
 ---
 
